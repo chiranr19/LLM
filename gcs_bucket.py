@@ -1,3 +1,4 @@
+# ✦ @chiranr19 · © 2026 All Rights Reserved · proprietary · sigil:4DBHQKSWHGOW3DHK
 from google.cloud import storage 
 import os # Ensure this import is in your file
 

@@ -1,3 +1,4 @@
+# ✦ @chiranr19 · © 2026 All Rights Reserved · proprietary · sigil:4DBHQKSWHGOW3DHK
 from client import llm
 from pdf_retriver import retriever
 from langchain_core.prompts import ChatPromptTemplate

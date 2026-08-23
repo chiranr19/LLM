@@ -1,3 +1,4 @@
+# ✦ @chiranr19 · © 2026 All Rights Reserved · proprietary · sigil:4DBHQKSWHGOW3DHK
 import openai
 from google.auth import default, transport
 from langchain import PromptTemplate

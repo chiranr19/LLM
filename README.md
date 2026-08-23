@@ -1,3 +1,5 @@
+> **© 2026 Chiranjeev (@chiranr19) — All Rights Reserved.** This project is **source-available for viewing only**; it is *not* open source. No copying, reuse, modification, deployment, or redistribution of any part of it (or its underlying ideas) without prior written permission — see [LICENSE](./LICENSE) and [SIGNATURE](./SIGNATURE). Prospective employers and collaborators are welcome to read the code.  ·  authorship sigil `4DBH·QKSW·HGOW·3DHK`
+
 Chainlit-GCP-VertexAI RAG System
 This repository contains code that enables users to upload files via a Chainlit interface, store those files in Google Cloud Storage (GCS), and leverage Vertex AI Embeddings and Chroma DB for retrieval-augmented generation (RAG). This allows users to ask questions related to the contents of the uploaded files.
 

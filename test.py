@@ -1,3 +1,4 @@
+# ✦ @chiranr19 · © 2026 All Rights Reserved · proprietary · sigil:4DBHQKSWHGOW3DHK
 import os
 from typing import List
 

@@ -1,3 +1,4 @@
+# ✦ @chiranr19 · © 2026 All Rights Reserved · proprietary · sigil:4DBHQKSWHGOW3DHK
 import gcsfs
 from pypdf import PdfReader
 from urllib.parse import urlparse
